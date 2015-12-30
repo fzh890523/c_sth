@@ -1,2 +1,6 @@
 *.exe
 .idea/*
+*.out
+*.s
+*.o
+*.i
